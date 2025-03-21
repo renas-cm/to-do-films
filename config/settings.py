@@ -68,6 +68,8 @@ CORS_ALLOW_METHODS = (
     "PUT",
 )
 
+APPEND_SLASH = False
+
 ROOT_URLCONF = 'config.urls'
 
 TEMPLATES = [
