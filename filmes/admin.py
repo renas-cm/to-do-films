@@ -1,5 +1,5 @@
 from django.contrib import admin
 
-from .models import Filme, FilmeAssistido
-                        
+from .models import Filme
+
 admin.site.register(Filme)
