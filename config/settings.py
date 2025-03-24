@@ -40,6 +40,7 @@ INSTALLED_APPS = [
     'filmes',
     'corsheaders',
     'rest_framework',
+    'django_filters',
 ]
 
 MIDDLEWARE = [
